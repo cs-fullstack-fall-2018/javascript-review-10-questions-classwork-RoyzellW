@@ -14,6 +14,8 @@ An alert box that displays 'Undefined'
 
 An alert box that displays 'The answer to the ultimate question: {theAnswer}'
 
+1.
+
 
 <hr/>
 
@@ -45,6 +47,9 @@ An alert box with an empty message
 An alert box saying "Just go and Get a Job!"
 
 No alert dialog box but an error instead
+
+3. 
+
 
 <hr/>
 
@@ -117,6 +122,7 @@ Error: Error: Something went wrong
 The outer finally block  
 Glad to be done!
 
+3.
 
 <hr/>
 
@@ -172,6 +178,8 @@ The type is: string with value '5'
 The type is: string with value '8/11/2017'  
 
 
+1. 
+
 <hr/>
 
 ### Typeof/null/undefined/hoisting
@@ -217,6 +225,8 @@ undefined
 
 Nothing because an error will display in the console
 
+1.
+
 
 <hr/>
 
@@ -253,6 +263,8 @@ http://localhost:35132/Account/FormTest?first=John&last=Doe
 
 http://localhost:35132/Account/FormTest/GET/#first=John?last=Doe
 
+
+2. 
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted
@@ -309,6 +321,7 @@ F1F2F3F5
 
 F1F2F5F3
 
+1. 
 
 <hr/>
 
@@ -349,6 +362,7 @@ A list of empty spaces
 
 A list of random letters
 
+1. 
 
 <hr/>
 
@@ -390,3 +404,5 @@ You load the following page in the browser:
 111
 
 123
+
+3. 
